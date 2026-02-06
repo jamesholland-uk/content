@@ -209,7 +209,7 @@ script:
       isArray: true
     - name: objective
       description: Objective.
-    - name: atomic_ordering
+    - name: adversary_atomic_ordering
       description: Atomic ordering (CSV of ability IDs).
       isArray: true
     - name: plugin
